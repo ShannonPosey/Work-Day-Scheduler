@@ -30,9 +30,9 @@
     </header>
     <div class="container">
       <!-- Timeblocks go here -->
-      <div class="row time-block" id="hour9">
-        <div class="col-md-1 hour">9 AM</div>
-        <textarea class="col-md-10 description"></textarea>
+      <div class="row time-block" id="hour9"> <!-- parent element-->
+        <div class="col-md-1 hour">9 AM</div>  <!-- shares the same parent with textarea and button-->
+        <textarea class="col-md-10 description"></textarea> <!-- siblings element -->
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </div>
       <div class="row time-block" id="hour10">
@@ -65,9 +65,9 @@
         <textarea class="col-md-10 description"></textarea>
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </div>
-      <div class="row time-block" id="hour4">
+      <div class="row time-block" id="hour4">  
         <div class="col-md-1 hour">4 PM</div>
-        <textarea class="col-md-10 description"></textarea>
+        <textarea class="col-md-10 description"></textarea> 
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </div>
       <div class="row time-block" id="hour5">
@@ -75,34 +75,6 @@
         <textarea class="col-md-10 description"></textarea>
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </div>
-      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     </div>
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
