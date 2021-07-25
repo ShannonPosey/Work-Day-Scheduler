@@ -11,6 +11,8 @@ JavaScript
 
 ![ demo](./assets/img/)
 
+![demo](./assets/img/color-code.png)
+
 ### Website
 https://shannonposey.github.io/Work-Day-Scheduler/
 ## Author
