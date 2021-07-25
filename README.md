@@ -11,7 +11,7 @@ JavaScript
 
 ![demo](./assets/img/color-code.png)
 
-![ demo](./assets/img/Work-Day-Schedule.gif)
+![day planner demo](./assets/img/Work-Day-Schedule.gif)
 
 
 
