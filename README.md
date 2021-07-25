@@ -9,9 +9,11 @@ HTML
 CSS
 JavaScript
 
+![demo](./assets/img/color-code.png)
+
 ![ demo](./assets/img/Work-Day-Schedule.gif)
 
-![demo](./assets/img/color-code.png)
+
 
 ### Website
 https://shannonposey.github.io/Work-Day-Scheduler/
